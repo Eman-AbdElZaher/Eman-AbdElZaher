@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Eman-AbdElZaher?tab=repositories](https://github.com/Eman-AbdElZaher?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Eman-AbdElZaher?tab=repositories)
 
-- 📄 Know more about me [https://drive.google.com/file/d/1SH8aQopc-32k5sG6CE1pjcxZCftQRx0v/view?usp=sharing](https://drive.google.com/file/d/1SH8aQopc-32k5sG6CE1pjcxZCftQRx0v/view?usp=sharing)
+- 📄 Know more about me [CV](https://drive.google.com/file/d/1S342TgJoiJ9JAKH3HhHYJ3cYJ22si6Yn/view?usp=sharing)
 
 - 💬 Ask me about **Angular and js**
 
