@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eman-abdelzaher&label=Profile%20views&color=0e75b6&style=flat" alt="eman-abdelzaher" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Eman-AbdElZaher?tab=repositories)
 
